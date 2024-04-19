@@ -1,7 +1,7 @@
 const sessionName = "dreaded1";
 const antiforeign = process.env.ANTIFOREIGN || 'FALSE';
 const autobio = process.env.AUTOBIO || 'TRUE';
-let botname = process.env.BOTNAME || '𝐓𝐎𝐍𝐉𝐄_𝐀𝐈';
+let botname = process.env.BOTNAME || '𝐓𝐎𝐍𝐉𝐄 𝐁𝐎𝐓';
 
 const owner = process.env.DEV || '254113069954'; // This will send a notification once the bot reconnects
 const {

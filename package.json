@@ -69,10 +69,10 @@
    }, 
    "repository": { 
      "type": "git", 
-     "url": "git+https://github.com/Tonje1416/TONJE-BOT.git" 
+     "url": "git+https://github.com/Fortunatusmokaya/DREADED-AI.git" 
    }, 
    "bugs": { 
-     "url": "https://github.com/Tonje1416/TONJE-BOT/issues" 
+     "url": "https://github.com/Fortunatusmokaya/DREADED-AI/issues" 
    }, 
-   "homepage": "https://github.com/Tonje1416/TONJE-BOT#readme" 
+   "homepage": "https://github.com/Fortunatusmokaya/DREADED-AI#readme" 
  }

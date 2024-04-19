@@ -265,7 +265,7 @@ await client.sendMessage(from, {text: lod[i], edit: key });
 var lod = [
 "⭓",
 "⬬",	
-	"𝙿𝙸𝙽𝙶𝙸𝙽𝙶 ◍ ◉ ⭗ "
+	"Checking my speed ◍ ◉ ⭗ "
 	
 ]
 let { key } = await client.sendMessage(from, {text: '⭓𝐏𝐨𝐧𝐠'})

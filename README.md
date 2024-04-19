@@ -40,7 +40,7 @@ Linking/Pairing:
 
 
 ## ` Pair On reptil`
-<h2 align="left">  <a href="https://replit.com/@darkintent120/Pairing-drex9"><img src="https://repl.it/badge/github/quiec/whatsasena" />
+<h2 align="left">  <a href="https://replit.com/@multonny748/Pairing"><img src="https://repl.it/badge/github/quiec/whatsasena" />
 </a>
 </h2>
 
@@ -54,7 +54,7 @@ Alternatively, pair locally using the repo [Here](https://github.com/Fortunatusm
     
 <h2 align="center">   
 
-- Fork this repo by tapping  [here](https://github.com/drexmose/drex-ai/fork)
+- Fork this repo by tapping  [here](https://github.com/Tonje1416/drex-ai/fork)
 
 
 - Upload the creds.json that you received to the dreaded1 folder.

@@ -59,7 +59,7 @@ Alternatively, pair locally using the repo [Here](https://github.com/Fortunatusm
 
 - Upload the creds.json that you received to the dreaded1 folder.
 
-- Connect your fork to any suitable cloud host and deploy.
+- Connect your fork to any suitable cloud host and deploy. To deploy on #HEROKU click [Here](https://dashboard.heroku.com/new-app?template=https://github.com/Tonje1416/TONJE-BOT)
 
 - Add the environmental variables in .env into your hosting site for bot to work.
 </h2>

@@ -78,7 +78,7 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 ## License
 
-[MIT License](https://https://github.com/Tonje1416/CTONJE-BOT/blob/main/LICENSE)
+[MIT License](https://https://github.com/drexmose/Cdrex-ai/blob/main/LICENSE)
 
 Copyright (c) 2024 𝐓𝐎𝐍𝐉𝐄 𝐁𝐎𝐓®
 

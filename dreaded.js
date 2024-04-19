@@ -248,13 +248,13 @@ await client.sendMessage(from, {text: lod[i], edit: key });
 	  
 	   async function load () {
 var lod = [
-"i am drex_ai",
-"cloned by drex mose",
+"i am tonje_ai",
+"cloned by Tonney Kyambia",
 "have fun with the bot",
 "type .sc to access my source code",
 	"𝐓𝐡𝐚𝐧𝐤 𝐘𝐨𝐮 𝐅𝐨𝐫 𝐖𝐚𝐢𝐭𝐢𝐧𝐠 😁 "
 ]
-let { key } = await client.sendMessage(from, {text: '𝐈 𝐚𝐦 𝐃𝐫𝐞𝐱_𝐚𝐢'})
+let { key } = await client.sendMessage(from, {text: '𝐈 𝐚𝐦 𝐓𝐨𝐧𝐣𝐞_𝐚𝐢'})
 
 for (let i = 0; i < lod.length; i++) {
 await client.sendMessage(from, {text: lod[i], edit: key });
@@ -281,9 +281,9 @@ var lod = [
 "😎",
 "🤬",
         "🗿",	
-"⭓𝐋𝐨𝐚𝐝𝐢𝐧𝐠 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛𝐲 𝐝𝐫𝐞𝐱! 😬"
+"⭓𝐋𝐨𝐚𝐝𝐢𝐧𝐠 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛𝐲 𝐢𝐭'𝐬 𝐓𝐨𝐧𝐣𝐞! 👽"
 ]
-let { key } = await client.sendMessage(from, {text: '𝐋𝐨𝐚𝐝𝐢𝐧𝐠 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛𝐲 𝐝𝐫𝐞𝐱! 😬...'})
+let { key } = await client.sendMessage(from, {text: '𝐋𝐨𝐚𝐝𝐢𝐧𝐠 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛𝐲 𝐢𝐭'𝐬 𝐓𝐨𝐧𝐣𝐞! 👽...'})
 
 for (let i = 0; i < lod.length; i++) {
 await client.sendMessage(from, {text: lod[i], edit: key });
@@ -409,7 +409,7 @@ case "help":
 
 		      await loading ()
 
-let cap = `╭════〘 𝐃𝐑𝐄𝐗 𝐁𝐎𝐓 〙═⊷⏣
+let cap = `╭════〘 𝐓𝐎𝐍𝐉𝐄 𝐁𝐎𝐓 〙═⊷⏣
 ┃⭓╭──────────────┉◕
 ┃⬬│ 𝗢𝘄𝗻𝗲𝗿 :𝕯⃟𝗮𝗿𝗸_𝗜𝗻𝘁𝗲𝗻𝘁⃟ꦿ⸼
 ┃⭓│ 𝗨𝘀𝗲𝗿 : ${m.pushName}︎︎
@@ -422,7 +422,7 @@ let cap = `╭════〘 𝐃𝐑𝐄𝐗 𝐁𝐎𝐓 〙═⊷⏣
 ┃⬬│
 ┃⭓│▎▍▌▌▉▏▎▌▉▐▏▌
 ┃⬬│▎▍▌▌▉▏▎▌▉▐▏▌
-┃⭓│ ⬬𝐃𝐑𝐄𝐗_𝐀𝐈⭓
+┃⭓│ ⬬𝐢𝐭'𝐬 𝐓𝐨𝐧𝐣𝐞_𝐀𝐈⭓
 ┃⛥│
 ┃╰┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉⏣
 ╰─────────────────⏣
@@ -477,7 +477,7 @@ let cap = `╭════〘 𝐃𝐑𝐄𝐗 𝐁𝐎𝐓 〙═⊷⏣
 ▯╭┄┄┄┄┄┄┄┄···◕
 ┴⬬│
 ┃⬬│${prefix}𝐀𝐢.
-┃⬬│${prefix}𝐃𝐫𝐞𝐱.                                                                                                                                                                                                                                                                                
+┃⬬│${prefix}𝐓𝐨𝐧𝐣𝐞.                                                                                                                                                                                                                                                                                
 ┃⬬│${prefix}𝐆𝐩𝐭.
 ┃⬬│${prefix}𝐆.
 ┃⬬│${prefix}𝐈𝐦𝐠.
@@ -550,7 +550,7 @@ let cap = `╭════〘 𝐃𝐑𝐄𝐗 𝐁𝐎𝐓 〙═⊷⏣
 ┃⭓│${prefix}𝐑𝐞𝐯𝐨𝐤𝐞.
 ┃⭓│
 ┃⭓╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅⏣
-┃➠    ▒▓𝐌𝐚𝐝𝐞 𝐁𝐲 ✞⃟❐͜͡𝕯Я𝚺✘ ⃟ۣቾ ᭄ ࣩࣧࣧ▓▒ 
+┃➠    ▒▓𝐌𝐚𝐝𝐞 𝐁𝐲 𝐢𝐭'𝐬 𝐓𝐨𝐧𝐣𝐞👽
 ╰════════════════⊷⏣`;
 
 if (menu === 'VIDEO') {
@@ -573,9 +573,9 @@ client.sendMessage(m.chat, {
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: `𝐃𝐑𝐄𝐗_𝐀𝐈`,
+                                title: `𝐓𝐎𝐍𝐉𝐄_𝐀𝐈`,
                                 body: `${runtime(process.uptime())}`,
-                                thumbnail: fs.readFileSync('./𝐃𝐑𝐄𝐗_𝐀𝐈.jpg'),
+                                thumbnail: fs.readFileSync('./𝐓𝐎𝐍𝐉𝐄 𝐁𝐎𝐓.jpg'),
                                 sourceUrl: 'https://wa.me/254102074064?text=ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏+Nihostie+Bot+Mkuu+🥲',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -642,7 +642,7 @@ case 'play2': {
         from, {
           audio: fs.readFileSync(`./${randomName}`),
           mimetype: "audio/mpeg",
-          caption: "𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃 𝐁𝐘 𝐃𝐑𝐄𝐗"
+          caption: "𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃 𝐁𝐘 𝐓𝐎𝐍𝐉𝐄 𝐁𝐎𝐓"
         }, {
           quoted: fcontact
         }
@@ -813,7 +813,7 @@ const rel = await quote(xf, pushname, pppuser)
                 
                 client.sendImageAsSticker(m.chat, rel.result, m, {
                     packname: pushname,
-                    author: `©𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞⸙`
+                    author: `©𝐢𝐭'𝐬 𝐓𝐨𝐧𝐣𝐞⸙`
                 })
 
 } catch (errr) { 
